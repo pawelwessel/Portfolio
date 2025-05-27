@@ -64,9 +64,9 @@ const projects = [
     shortDescription:
       "A website dedicated to manicure services, where you can book appointments, reschedule, and earn discounts by referring friends.",
     images: [
-      "../../public/images/projects/manicuregrudziadz/hero.png",
-      "../../public/images/projects/manicuregrudziadz/dashboard.png",
-      "../../public/images/projects/manicuregrudziadz/rezerwacje.png",
+      "/images/projects/manicuregrudziadz/hero.png",
+      "/images/projects/manicuregrudziadz/dashboard.png",
+      "/images/projects/manicuregrudziadz/rezerwacje.png",
     ],
     bgColor: "#3F3F46",
     link: "https://www.manicuregrudziadz.pl/",
@@ -87,8 +87,8 @@ const projects = [
     shortDescription:
       "Business card page for a legal advisor. Contact, Services.",
     images: [
-      "../../public/images/projects/kancelariadeluga/hero.png",
-      "../../public/images/projects/kancelariadeluga/offer.png",
+      "/images/projects/kancelariadeluga/hero.png",
+      "/images/projects/kancelariadeluga/offer.png",
     ],
     bgColor: "#65574C",
     link: "https://www.delugakancelaria.pl/",
@@ -100,12 +100,12 @@ const projects = [
     shortDescription:
       "A website for traditional and tattoo artist. Artworks showcase, Shop, Blog. Products on the shop are displayed on a 3D canvas.",
     images: [
-      "../../public/images/projects/blackbellart/hero.png",
-      "../../public/images/projects/blackbellart/shop.png",
-      "../../public/images/projects/blackbellart/shopItem.png",
-      "../../public/images/projects/blackbellart/tattooBlog.png",
-      "../../public/images/projects/blackbellart/tattoos.png",
-      "../../public/images/projects/blackbellart/contact.png",
+      "/images/projects/blackbellart/hero.png",
+      "/images/projects/blackbellart/shop.png",
+      "/images/projects/blackbellart/shopItem.png",
+      "/images/projects/blackbellart/tattooBlog.png",
+      "/images/projects/blackbellart/tattoos.png",
+      "/images/projects/blackbellart/contact.png",
     ],
     bgColor: "#1D1D1D",
     link: "https://www.blackbellart.com/",
@@ -124,8 +124,8 @@ const projects = [
     shortDescription:
       "Business card page for a hairdresser. Portfolio, Contact.",
     images: [
-      "../../public/images/projects/fryzurykaminska/hero.png",
-      "../../public/images/projects/fryzurykaminska/offer.png",
+      "/images/projects/fryzurykaminska/hero.png",
+      "/images/projects/fryzurykaminska/offer.png",
     ],
     bgColor: "#AFEAC4",
     link: "https://www.fryzurykaminska.pl/",
@@ -138,10 +138,10 @@ const projects = [
     shortDescription:
       "The main objective of this website is to attract potential customers interested in purchasing websites created by me.",
     images: [
-      "../../public/images/projects/quixy/hero.png",
-      "../../public/images/projects/quixy/quixyPortfolio.png",
-      "../../public/images/projects/quixy/quixyPortfolio2.png",
-      "../../public/images/projects/quixy/quixyItem.png",
+      "/images/projects/quixy/hero.png",
+      "/images/projects/quixy/quixyPortfolio.png",
+      "/images/projects/quixy/quixyPortfolio2.png",
+      "/images/projects/quixy/quixyItem.png",
     ],
     bgColor: "#212121",
     link: "https://www.quixy.pl/",
